@@ -152,7 +152,27 @@ Cela permet de **résoudre automatiquement certains conflits**.
 * H2 Database
 * Maven
 
-# Résultats
+
+
+
+# Exécution de la classe ConcurrentReservationSimulator 
+
+https://github.com/user-attachments/assets/fdf49e29-72f8-4b00-9802-a67e2c3468c8
+
+
+
+
+# Exécution de la classe ConcurrentReservationSimulator apres Implémentation d'une stratégie de gestion des conflits:
+
+https://github.com/user-attachments/assets/99652457-0939-400d-af94-cce972de1b54
+
+
+
+
+    
+
+
+
 
 
 
