@@ -152,7 +152,7 @@ Cela permet de **résoudre automatiquement certains conflits**.
 * H2 Database
 * Maven
 
-# Résultats 
+# Résultats
 
 
 
