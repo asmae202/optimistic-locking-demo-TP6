@@ -20,8 +20,7 @@
    
 * [🛠 Technologies Utilisées](#-technologies-utilisées)
 
-
-*[Résultats et enseignements](#-Résultats-et-enseignements)
+* [Résultats et enseignements](#-Résultats-et-enseignements)
 
 
 
