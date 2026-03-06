@@ -8,16 +8,16 @@
 
 * [🎯 Objectif](#-objectif)
 
-* [⚙️ Mecanisme de l Optimistic Locking](#-⚙️-mecanisme-de-l-optimistic-locking)
-  
+* [Mecanisme de l Optimistic Locking](#mecanisme-de-l-optimistic-locking)
+    
 * [🏗 Implémentation avec @Version](#-implémentation-avec-version)
 
 * [⚡ Simulation d’un Conflit de Concurrence](#-simulation-dun-conflit-de-concurrence)
 
 * [🔄 Gestion des Conflits (Retry)](#-gestion-des-conflits-retry)
 
-* [⚖️ Avantages et Inconvenients](#-⚖️-avantages-et-inconvenients)
-* 
+* [Avantages et Inconvenients](#avantages-et-inconvenients)
+   
 * [🛠 Technologies Utilisées](#-technologies-utilisées)
 
 
@@ -57,7 +57,7 @@ Ce TP a pour objectif de :
 
 ---
 
-# ⚙️ Mecanisme de l Optimistic Locking
+# Mecanisme de l Optimistic Locking
 
 Le **verrouillage optimiste** est une stratégie de gestion de concurrence basée sur l'idée que les conflits sont rares.
 
@@ -125,7 +125,7 @@ Cela permet de **résoudre automatiquement certains conflits**.
 
 ---
 
-# ⚖️ Avantages et Inconvénients
+# Avantages et Inconvenients
 
 ## Avantages
 
@@ -150,7 +150,7 @@ Cela permet de **résoudre automatiquement certains conflits**.
 * H2 Database
 * Maven
 
----
+
 
 
 
