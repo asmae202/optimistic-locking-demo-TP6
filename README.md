@@ -8,7 +8,7 @@
 
 * [🎯 Objectif](#-objectif)
 
-* [ Mécanisme Optimistic Locking](#mecanisme-optimistic-locking)
+* [ ⚡Mecanisme de l Optimistic Locking](#mecanisme-de-l-optimistic-locking)
     
 * [🏗 Implémentation avec @Version](#-implémentation-avec-version)
 
