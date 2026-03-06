@@ -21,6 +21,9 @@
 * [🛠 Technologies Utilisées](#-technologies-utilisées)
 
 
+*[Résultats et enseignements](#-Résultats-et-enseignements)
+
+
 
 ---
 
@@ -150,6 +153,7 @@ Cela permet de **résoudre automatiquement certains conflits**.
 * H2 Database
 * Maven
 
+# Résultats et enseignements
 
 
 
