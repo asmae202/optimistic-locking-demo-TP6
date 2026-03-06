@@ -8,7 +8,7 @@
 
 * [🎯 Objectif](#-objectif)
 
-- [⚙️ Mécanisme de l’Optimistic Locking](#mecanisme-de-loptimistic-locking)
+- [⚙️ Mecanisme de l-Optimistic-Locking](#-mecanisme-de-l-optimistic-locking)
 
 * [🏗 Implémentation avec @Version](#-implémentation-avec-version)
 
@@ -57,7 +57,7 @@ Ce TP a pour objectif de :
 
 ---
 
-# ⚙️  Mecanisme de l'Optimistic Locking
+# ⚙️ Mecanisme de l-Optimistic-Locking
 
 Le **verrouillage optimiste** est une stratégie de gestion de concurrence basée sur l'idée que les conflits sont rares.
 
@@ -152,5 +152,5 @@ Cela permet de **résoudre automatiquement certains conflits**.
 
 ---
 
-# 📚 Références
+
 
