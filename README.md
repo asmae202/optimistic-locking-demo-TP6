@@ -8,8 +8,8 @@
 
 * [🎯 Objectif](#-objectif)
 
-*  [⚙️ Mecanisme de l’Optimistic Locking](#-⚙️-mecanisme-de-l-optimistic-locking)
-
+* [⚙️ Mecanisme de l Optimistic Locking](#-⚙️-mecanisme-de-l-optimistic-locking)
+  
 * [🏗 Implémentation avec @Version](#-implémentation-avec-version)
 
 * [⚡ Simulation d’un Conflit de Concurrence](#-simulation-dun-conflit-de-concurrence)
@@ -17,7 +17,7 @@
 * [🔄 Gestion des Conflits (Retry)](#-gestion-des-conflits-retry)
 
 * [⚖️ Avantages et Inconvenients](#-⚖️-avantages-et-inconvenients)
-
+* 
 * [🛠 Technologies Utilisées](#-technologies-utilisées)
 
 
